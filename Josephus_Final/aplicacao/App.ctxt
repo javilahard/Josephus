@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\r\n\ Inicia\ a\ aplica\u00E7\u00E3o\ do\ simulador\ Josephus\r\n\r\n\ @author\ Igor\ Costa;\ Joao\ Avila;\ Priscilla\ de\ Souza;\ Larissa\ Hipolito\r\n\ @version\ 18/06/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
